@@ -1,0 +1,10 @@
+INFO:root:Selected env == stage. Execution started at 24_02_22_14:00:49
+INFO:root:driver created. 24_02_22_14:00:55
+INFO:root:14:01:03 Interacted with //*[@id="authLoginEmailField"]. Sent a.ihnatenko@boosteroid.com
+INFO:root:14:01:05 Interacted with //*[@id="authLoginPasswordField"]. Sent 123123123
+INFO:root:Screenshot done
+INFO:root:14:01:06 Interacted with /html/body/app-root/app-auth/div/app-auth-login/form/app-primary-button. Clicked
+INFO:root:Screenshot done
+INFO:root:14:01:12 Interacted with /html/body/app-root/app-available-time-modal/div/div[2]/button/svg-icon. Clicked
+INFO:root:Screenshot done
+INFO:root:24_02_22_14:01:14 Driver closed
